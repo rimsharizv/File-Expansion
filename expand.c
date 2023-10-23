@@ -1,5 +1,5 @@
 // Rimsha Rizvi
-// CS 211 - PROJECT 7 - The process of “file expansion” - takes as input a file such as A and produces its ”expanded version.”
+// Project - The process of “file expansion” - takes as input a file such as A and produces its ”expanded version.”
 
 #include <stdio.h>
 #include<stdlib.h>
