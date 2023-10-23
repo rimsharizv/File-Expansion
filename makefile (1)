@@ -1,0 +1,10 @@
+s.o: s.h s.c
+	gcc -c s.c
+
+driver: expand.c s.o 
+	gcc expand.c s.o -lc -o expand
+
+clean:
+	rm -f *.o expand
+
+
