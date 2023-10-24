@@ -16,5 +16,4 @@ The program handles the following errors:
 2. If the specified file in an #include directive does not exist, an error message is printed and the expansion terminates.
 3. If infinite recursion is detected (i.e., a file includes itself), an error message is printed and the expansion terminates.
 
-## Copyright and Plagiarism Notice
 All content in this repository belongs to the author. If you would like to use this work for educational or other non-commercial purposes, don't hesitate to get in touch with the author for permission.
